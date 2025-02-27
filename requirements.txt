@@ -1,0 +1,9 @@
+flask
+pandas
+tensorflow
+pickle-mixin
+matplotlib
+seaborn
+nltk
+re
+string
