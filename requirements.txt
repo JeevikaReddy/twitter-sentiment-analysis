@@ -5,3 +5,4 @@ pickle-mixin
 matplotlib
 seaborn
 nltk
+gunicorn
