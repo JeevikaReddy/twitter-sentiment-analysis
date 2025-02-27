@@ -5,5 +5,3 @@ pickle-mixin
 matplotlib
 seaborn
 nltk
-re
-string
